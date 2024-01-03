@@ -5092,3 +5092,124 @@ DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", 
 DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
 DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
 INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58297"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:63463"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58337"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:61968"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58413"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:61485"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58446"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:64190"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58490"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:60511"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58537"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:54573"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58640"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:63763"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58671"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58955"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:155	cleaning	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:169	cleanup finished	{"process": "storagenode", "items deleted": 0}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58715"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:55771"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:58771"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:54402"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59342"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:50037"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59408"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:49301"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59450"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:54810"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59491"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:51996"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59554"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:51901"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59591"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:64535"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59637"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:56182"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59679"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:63822"}
+DEBUG	orders	orders/service.go:155	cleaning	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:169	cleanup finished	{"process": "storagenode", "items deleted": 0}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59743"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:61464"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59776"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:53967"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59819"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:56633"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59852"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:61648"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59955"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:62163"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:59996"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:63635"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:60038"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:60191"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:60071"}
+DEBUG	contact:endpoint	contact/endpoint.go:61	pinged	{"process": "storagenode", "by": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "srcAddr": "127.0.0.1:51901"}
+DEBUG	orders	orders/service.go:176	sending	{"process": "storagenode"}
+DEBUG	orders	orders/service.go:194	no orders to send	{"process": "storagenode"}
+INFO	reputation:service	reputation/service.go:59	node scores updated	{"process": "storagenode", "Satellite ID": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF", "Total Audits": 0, "Successful Audits": 0, "Audit Score": 1, "Online Score": 1, "Suspension Score": 1, "Audit Score Delta": 0, "Online Score Delta": 0, "Suspension Score Delta": 0}
