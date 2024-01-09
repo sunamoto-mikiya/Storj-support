@@ -1,7 +1,6 @@
 {
-  "Default": "main",
-  "Accesses": {
-    "main": "18HGwKTbE435sC5YJWDNrrN8Kv66yqwiCw3Sv5ovmvLLcKtbnp2QA3o3Zw6yovr6JVESnWR1mVHRUu95kKtpobLN8GsnALrJLp7zsDTaWNchPwHhp61VUqk9z51jGWnq4qqVJz6z2rwcR1RbPrjc7KGRPqx1MgoNwNQVj7iRnEBXkU9UxeNLTVATYeLzk32ARK7p7YiBJL2k3Tt5KrQwACUaXpJEbpqX2xeSDCkDpFGkeGnUgXAN2N6KSNyG"
-  },
-  "allowed-satellites": "12kbxa82SSEiBqxvsTq1zGoH8csMa5Ha1vUn57x1ECPJhKJaYyF@127.0.0.1:10000"
+	"Default": "main",
+	"Accesses": {
+		"main": "18HGwKTbE435sC5YJWDNrrN8Kv66yqwiCw3Sv5ovmvLLcKtbnp2QA3o3Zw6yovr6JVESnWR1mVHRUu95kKtpobLN8GsnALrJLp7zsDTaWNchPwHhp61VUqk9z51jGWnq4qqVJz6z2rwcR1RbPrjc7KGRPqx1MgoNwNQVj7iRnEBXkU9UxeNLTVATYeLzk32ARK7p7YiBJL2k3Tt5KrQwACUaXpJEbpqX2xeSDCkDpFGkeGnUgXAN2N6KSNyG"
+	}
 }
