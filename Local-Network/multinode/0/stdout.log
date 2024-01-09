@@ -1,6 +1,0 @@
-Generating key with a minimum a difficulty of 8...
-Generated 1 keys; best difficulty so far: 0Generated 1 keys; best difficulty so far: 8
-Found a key with difficulty 8!
-Unsigned identity is located in "/Users/sunamoto/Library/Application Support/Storj/Local-Network/multinode/0"
-Please *move* CA key to secure storage - it is only needed for identity management and isn't needed to run a storage node!
-	/Users/sunamoto/Library/Application Support/Storj/Local-Network/multinode/0/ca.key
