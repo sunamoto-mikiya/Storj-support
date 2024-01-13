@@ -901,3 +901,17 @@
 13343:C 14 Jan 2024 03:30:34.694 * DB saved on disk
 13343:C 14 Jan 2024 03:30:34.695 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
 12242:M 14 Jan 2024 03:30:34.752 * Background saving terminated with success
+13557:C 14 Jan 2024 03:34:21.477 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+13557:C 14 Jan 2024 03:34:21.477 * Redis version=7.2.3, bits=64, commit=00000000, modified=0, pid=13557, just started
+13557:C 14 Jan 2024 03:34:21.477 * Configuration loaded
+13557:M 14 Jan 2024 03:34:21.478 * Increased maximum number of open files to 10032 (it was originally set to 256).
+13557:M 14 Jan 2024 03:34:21.478 * monotonic clock: POSIX clock_gettime
+13557:M 14 Jan 2024 03:34:21.479 * Running mode=standalone, port=10004.
+13557:M 14 Jan 2024 03:34:21.479 # WARNING: The TCP backlog setting of 511 cannot be enforced because kern.ipc.somaxconn is set to the lower value of 128.
+13557:M 14 Jan 2024 03:34:21.479 * Server initialized
+13557:M 14 Jan 2024 03:34:21.479 * Loading RDB produced by version 7.2.3
+13557:M 14 Jan 2024 03:34:21.479 * RDB age 227 seconds
+13557:M 14 Jan 2024 03:34:21.479 * RDB memory usage when created 1.19 Mb
+13557:M 14 Jan 2024 03:34:21.479 * Done loading RDB, keys loaded: 2, keys expired: 0.
+13557:M 14 Jan 2024 03:34:21.479 * DB loaded from disk: 0.000 seconds
+13557:M 14 Jan 2024 03:34:21.479 * Ready to accept connections tcp
