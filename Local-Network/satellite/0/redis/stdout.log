@@ -896,3 +896,8 @@
 12242:M 14 Jan 2024 03:06:57.679 * Done loading RDB, keys loaded: 2, keys expired: 0.
 12242:M 14 Jan 2024 03:06:57.679 * DB loaded from disk: 0.001 seconds
 12242:M 14 Jan 2024 03:06:57.679 * Ready to accept connections tcp
+12242:M 14 Jan 2024 03:30:34.649 * 100 changes in 300 seconds. Saving...
+12242:M 14 Jan 2024 03:30:34.652 * Background saving started by pid 13343
+13343:C 14 Jan 2024 03:30:34.694 * DB saved on disk
+13343:C 14 Jan 2024 03:30:34.695 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+12242:M 14 Jan 2024 03:30:34.752 * Background saving terminated with success
