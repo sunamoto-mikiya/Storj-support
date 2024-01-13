@@ -51,3 +51,10 @@ DEBUG	tracing collector	monkit-jaeger@v0.0.0-20230707083646-f15e6e8b7e8c/thrift.
 DEBUG	db	multinodedb/database.go:72	Connected to:	{"db source": "file:/Users/sunamoto/Library/Application Support/Storj/Local-Network/multinode/0/master.db?_journal=WAL&_busy_timeout=10000"}
 INFO	db	migrate/versions.go:218	Database Version	{"version": 0}
 DEBUG	servers	lifecycle/group.go:100	started	{"items": ["console:endpoint"]}
+INFO	process/exec_conf.go:318	Configuration loaded	{"Location": "/Users/sunamoto/Library/Application Support/Storj/Local-Network/multinode/0/config.yaml"}
+DEBUG	process/tracing.go:104	Could not read identity for tracing setup	{"error": "open ./identity.cert: no such file or directory"}
+INFO	process/tracing.go:73	Anonymized tracing enabled
+DEBUG	tracing collector	monkit-jaeger@v0.0.0-20230707083646-f15e6e8b7e8c/thrift.go:149	started
+DEBUG	db	multinodedb/database.go:72	Connected to:	{"db source": "file:/Users/sunamoto/Library/Application Support/Storj/Local-Network/multinode/0/master.db?_journal=WAL&_busy_timeout=10000"}
+INFO	db	migrate/versions.go:218	Database Version	{"version": 0}
+DEBUG	servers	lifecycle/group.go:100	started	{"items": ["console:endpoint"]}
