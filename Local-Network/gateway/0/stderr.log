@@ -142,3 +142,31 @@ INFO	build/main.go:160	Access key: a2qTtmWAmeVBn2tdUbsTy1hH3Gz
 
 INFO	build/main.go:161	Secret key: LDZDE4p28hEPWJx9jVEJ2rMaEFq
 
+INFO	process/exec_conf.go:318	Configuration loaded	{"Location": "/Users/sunamoto/Library/Application Support/Storj/Local-Network/gateway/0/config.yaml"}
+INFO	process/tracing.go:73	Anonymized tracing enabled
+DEBUG	process/metrics.go:98	Telemetry disabled
+INFO	build/main.go:158	Starting Storj DCS S3 Gateway
+
+
+INFO	build/main.go:159	Endpoint: 127.0.0.1:11000
+
+INFO	build/main.go:160	Access key: a2qTtmWAmeVBn2tdUbsTy1hH3Gz
+
+INFO	build/main.go:161	Secret key: LDZDE4p28hEPWJx9jVEJ2rMaEFq
+
+DEBUG	tracing collector	monkit-jaeger@v0.0.0-20220915074555-d100d7589f41/udp.go:128	started
+DEBUG	process/debug.go:37	debug server listening on 127.0.0.1:11009
+INFO	process/exec_conf.go:318	Configuration loaded	{"Location": "/Users/sunamoto/Library/Application Support/Storj/Local-Network/gateway/0/config.yaml"}
+INFO	process/tracing.go:73	Anonymized tracing enabled
+DEBUG	process/debug.go:37	debug server listening on 127.0.0.1:11009
+DEBUG	tracing collector	monkit-jaeger@v0.0.0-20220915074555-d100d7589f41/udp.go:128	started
+DEBUG	process/metrics.go:98	Telemetry disabled
+INFO	build/main.go:158	Starting Storj DCS S3 Gateway
+
+
+INFO	build/main.go:159	Endpoint: 127.0.0.1:11000
+
+INFO	build/main.go:160	Access key: a2qTtmWAmeVBn2tdUbsTy1hH3Gz
+
+INFO	build/main.go:161	Secret key: LDZDE4p28hEPWJx9jVEJ2rMaEFq
+
