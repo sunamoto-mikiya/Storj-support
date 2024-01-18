@@ -1004,3 +1004,8 @@
 22310:C 18 Jan 2024 13:25:00.564 * DB saved on disk
 22310:C 18 Jan 2024 13:25:00.565 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
 21718:M 18 Jan 2024 13:25:00.643 * Background saving terminated with success
+21718:M 18 Jan 2024 13:49:30.531 * 100 changes in 300 seconds. Saving...
+21718:M 18 Jan 2024 13:49:30.531 * Background saving started by pid 22910
+22910:C 18 Jan 2024 13:49:30.553 * DB saved on disk
+22910:C 18 Jan 2024 13:49:30.555 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+21718:M 18 Jan 2024 13:49:30.632 * Background saving terminated with success
